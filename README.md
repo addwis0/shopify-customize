@@ -1,1 +1,1 @@
-# shopify-customize
+# shopify-zaiko-test
